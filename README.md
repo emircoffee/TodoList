@@ -1,4 +1,6 @@
-# New Project
+# Todo List
+
+First project working with Typescript and Javascript
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
